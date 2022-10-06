@@ -122,7 +122,7 @@ background: true
 --s--
 ## Ausgabe
 
-![](ai-img/dalle-2.png)
+![](img/dalle-2.png)
 
 
 
@@ -130,18 +130,18 @@ background: true
 --s--
 ## Aufbereitung
 
-![](ai-img/dalle-2-complete.png)
+![](img/dalle-2-complete.png)
 
 --s--
 ## Workshop
 
-![](ai-img/IMG_9830.jpg)
+![](img/IMG_9830.jpg)
 
 --s--
 ## Workshop
 
 
-![](ai-img/IMG_9886.jpg)
+![](img/IMG_9886.jpg)
 
 
 
