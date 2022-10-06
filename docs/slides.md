@@ -472,30 +472,12 @@ background: true
 - Did you have use for ai-image-stuff before?
 
 --s--
---s--
---s--
 
-Image style transfer and digital image generation with AI, Stefan Huber
+## Links
 
-- Midjourney
-
-[arthub.ai](https://arthub.ai) prompt ideas for generating AI art
-
-mid journey
-https://stability.ai/blog/stable-diffusion-public-release
-https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
-
-For prompt ideas visit
-https://arthub.ai/
-
-Image recoginiton
-https://driesdepoorter.be/thefollower/
-
-AI winned competition
-
-https://www.vice.com/de/article/bvmvqm/ein-ki-generiertes-bild-hat-einen-kunstwettbewerb-gewonnen-und-kunstler-sind-angepisst?utm_source=pocket-newtab-global-de-DE
-
-a Commodore 64 computer by Simon Stålenhag and Claude Monet, oil on canvas
-
-upscale
-https://replicate.com/nightmareai/real-esrgan
+- [Midjourney](https://www.midjourney.com/home/) other text-to-image models
+* [text-to-video model by Meta](https://www.vice.com/en/article/xgy45d/ai-can-now-generate-videos-from-text-courtesy-of-facebook)
+- [arthub.ai](https://arthub.ai) prompt ideas for generating AI art
+- [Stable Diffusion for MacOS](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+- [AI-Generated Artwork Won Fine Arts Competition](https://www.vice.com/en/article/bvmvqm/an-ai-generated-artwork-won-first-place-at-a-state-fair-fine-arts-competition-and-artists-are-pissed)
+- [Upscale with AI](https://replicate.com/nightmareai/real-esrgan)
