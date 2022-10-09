@@ -8,9 +8,9 @@ style: negative
 background: true
 ```
 
-## Hello SchatzWerk 👋
+## Hello SchatzWerk _👋_
 
-# {{process.content.frontmatter.title}} 
+# {{process.content.frontmatter.title}}
 
 _Oder wie man einen Linolschnitt auch machen kann_
 
@@ -22,7 +22,6 @@ _Oder wie man einen Linolschnitt auch machen kann_
 
 --s--
 
-
 ```fm
 style: negative
 background: true
@@ -33,27 +32,26 @@ background: true
 # Vierte Generation?
 
 --s--
+
 ## 1 – Kunsthandwerker·in
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ravenna%2C_Sant%27Apollinare_Nuovo%2C_Mosaic_002.JPG/1280px-Ravenna%2C_Sant%27Apollinare_Nuovo%2C_Mosaic_002.JPG)
 
 <footer>
 
-Quelle: Sant’Apollinare Nuovo Ravenna, ~ 6. Jahrhundert, [Wikipedia](https://en.wikipedia.org/wiki/Basilica_of_Sant%27Apollinare_Nuovo) 
+Quelle: Sant’Apollinare Nuovo Ravenna, ~ 6. Jahrhundert, [Wikipedia](https://en.wikipedia.org/wiki/Basilica_of_Sant%27Apollinare_Nuovo)
 
 </footer>
 
 --s--
+
 ## 2 – Künstler·in (Gegenstandsbezug)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/1729px-1665_Girl_with_a_Pearl_Earring.jpg)
 
-
 <footer>
 
-
-Quelle: Das Mädchen mit dem Perlenohrgehänge, Jan Vermeer, 1665 [Wikipedia](https://de.wikipedia.org/wiki/Das_M%C3%A4dchen_mit_dem_Perlenohrgeh%C3%A4nge) 
-
+Quelle: Das Mädchen mit dem Perlenohrgehänge, Jan Vermeer, 1665 [Wikipedia](https://de.wikipedia.org/wiki/Das_M%C3%A4dchen_mit_dem_Perlenohrgeh%C3%A4nge)
 
 </footer>
 
@@ -63,21 +61,17 @@ Quelle: Das Mädchen mit dem Perlenohrgehänge, Jan Vermeer, 1665 [Wikipedia](ht
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jean-Babtiste_Sabarier-Blot_L.J.M.Daguerre.1844.JPG/798px-Jean-Babtiste_Sabarier-Blot_L.J.M.Daguerre.1844.JPG)
 
-
 <footer>
 
 Quelle: Louis Jacques Mandé Daguerre, Aufnahme von Jean-Baptiste Sabatier-Blot, 1844, [Wikipedia](https://de.wikipedia.org/wiki/Geschichte_und_Entwicklung_der_Fotografie)
 
 </footer>
 
-
 --s--
 
 ## 3 – Abstraktion
 
-
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SchwarzesQuadrat.jpeg/1026px-SchwarzesQuadrat.jpeg)
-
 
 <footer>
 
@@ -94,55 +88,53 @@ background: true
 
 ## 4 – AI
 
-
 # Künstliche Inteligenz
 
-
 --s--
+
 ## Seit etwa 20 Jahren
 
 # Neue Ansätze in der Forschung
-* Neuronale Netze (änlich einem Gehirn)
 
+- Neuronale Netze (änlich einem Gehirn)
 
 --s--
+
 ## Bilderzeugung
 
-* Seit etwa 2 Jahren
-* Tumult in der (Kunst)-Szene
+- Seit etwa 2 Jahren
+- Tumult in der (Kunst)-Szene
 
 --s--
-## Eingabe
 
+## Eingabe
 
 # «A computer keyboard, 6 point perspective, two colour linocut print»
 
 --s--
+
 ## Ausgabe
 
 ![](img/dalle-2.png)
 
-
-
-
 --s--
+
 ## Aufbereitung
 
 ![](img/dalle-2-complete.png)
 
 --s--
+
 ## Workshop
 
 ![](img/IMG_9830.jpg)
 
 --s--
-## Workshop
 
+## Workshop
 
 ![](img/IMG_9886.jpg)
 
-
-
 --s--
-## Danke
 
+## Danke
