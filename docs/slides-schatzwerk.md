@@ -1,8 +1,6 @@
 ---
 theme: signalwerk
 title: Die vierte Generation der Bildlichkeit
-slide:
-  class: center
 ---
 
 ```fm

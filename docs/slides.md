@@ -1,8 +1,6 @@
 ---
 theme: signalwerk
 title: Image style transfer and digital image generation with&nbsp;AI
-slide:
-  class: center
 ---
 
 ```fm
@@ -476,8 +474,17 @@ background: true
 ## Links
 
 - [Midjourney](https://www.midjourney.com/home/) other text-to-image models
-* [text-to-video model by Meta](https://www.vice.com/en/article/xgy45d/ai-can-now-generate-videos-from-text-courtesy-of-facebook)
+- [text-to-video model by Meta](https://www.vice.com/en/article/xgy45d/ai-can-now-generate-videos-from-text-courtesy-of-facebook)
 - [arthub.ai](https://arthub.ai) prompt ideas for generating AI art
 - [Stable Diffusion for MacOS](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 - [AI-Generated Artwork Won Fine Arts Competition](https://www.vice.com/en/article/bvmvqm/an-ai-generated-artwork-won-first-place-at-a-state-fair-fine-arts-competition-and-artists-are-pissed)
 - [Upscale with AI](https://replicate.com/nightmareai/real-esrgan)
+
+<!--
+
+overview of AIs → List (imagine/mid-journey
+how to apply to what we do
+Gerhard Richter → Werk ohne Autor
+coding → github copilot → raphi
+
+-->
