@@ -486,5 +486,6 @@ overview of AIs → List (imagine/mid-journey
 how to apply to what we do
 Gerhard Richter → Werk ohne Autor
 coding → github copilot → raphi
+https://www.youtube.com/watch?v=1CIpzeNxIhU
 
 -->
