@@ -1,4 +1,4 @@
-# talk.ai-image-generation
+# Image style transfer and digital image generation with AI
 
 [Show Slides](https://signalwerk.github.io/talk.ai-image-generation/)
 
