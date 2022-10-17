@@ -1,6 +1,6 @@
 ---
 theme: signalwerk
-title: Image style transfer and digital image generation with&nbsp;AI
+title: Digital image generation with&nbsp;AI
 ---
 
 ```fm
@@ -398,17 +398,17 @@ Source: Stable Diffusion v1.4
 <div class="grid img--w100p">
 <div class="col4">
 
-![](./img/stable-diffusion/An%20old%20computer%20by%20Simon%20Sta%CC%8Alenhag%20and%20Claude%20Monet%2C%20oil%20on%20canvas%2001.png)
+![](./img/stable-diffusion/An%20old%20computer%20by%20Simon%20Stalenhag%20and%20Claude%20Monet%2C%20oil%20on%20canvas%2001.png)
 
 </div>
 <div class="col4">
 
-![](./img/stable-diffusion/An%20old%20computer%20by%20Simon%20Sta%CC%8Alenhag%20and%20Claude%20Monet%2C%20oil%20on%20canvas%2002.png)
+![](./img/stable-diffusion/An%20old%20computer%20by%20Simon%20Stalenhag%20and%20Claude%20Monet%2C%20oil%20on%20canvas%2002.png)
 
 </div>
 <div class="col4">
 
-![](./img/stable-diffusion/An%20old%20computer%20by%20Simon%20Sta%CC%8Alenhag%20and%20Claude%20Monet%2C%20oil%20on%20canvas%2003.png)
+![](./img/stable-diffusion/An%20old%20computer%20by%20Simon%20Stalenhag%20and%20Claude%20Monet%2C%20oil%20on%20canvas%2003.png)
 
 </div>
 </div>
@@ -428,17 +428,17 @@ Source: Stable Diffusion v1.4
 <div class="grid img--w100p">
 <div class="col4">
 
-![](./img/dalle2/DALL%C2%B7E%20-%20An%20old%20computer%20by%20Simon%20Sta%CC%8Alenhag%20and%20Claude%20Monet%2C%20oil%20on%20canvas%2001.png)
+![](./img/dalle2/DALL%C2%B7E%20-%20An%20old%20computer%20by%20Simon%20Stalenhag%20and%20Claude%20Monet%2C%20oil%20on%20canvas%2001.png)
 
 </div>
 <div class="col4">
 
-![](./img/dalle2/DALL%C2%B7E%20-%20An%20old%20computer%20by%20Simon%20Sta%CC%8Alenhag%20and%20Claude%20Monet%2C%20oil%20on%20canvas%2002.png)
+![](./img/dalle2/DALL%C2%B7E%20-%20An%20old%20computer%20by%20Simon%20Stalenhag%20and%20Claude%20Monet%2C%20oil%20on%20canvas%2002.png)
 
 </div>
 <div class="col4">
 
-![](./img/dalle2/DALL%C2%B7E%20-%20An%20old%20computer%20by%20Simon%20Sta%CC%8Alenhag%20and%20Claude%20Monet%2C%20oil%20on%20canvas%2003.png)
+![](./img/dalle2/DALL%C2%B7E%20-%20An%20old%20computer%20by%20Simon%20Stalenhag%20and%20Claude%20Monet%2C%20oil%20on%20canvas%2003.png)
 
 </div>
 </div>
