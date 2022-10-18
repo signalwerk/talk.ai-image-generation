@@ -313,14 +313,6 @@ Source: DALL·E 2 (September 2022)
 
 --s--
 
-## Demo
-
-# A _{colour}_ _{animal}_ sitting on a _{furniture}_, oil on canvas
-
-Test with [DALL·E 2](https://labs.openai.com/)
-
---s--
-
 ```fm
 style: negative
 background: true
@@ -701,6 +693,14 @@ Source: DALL·E 2 (September 2022)
 Source: Stable Diffusion v1.4
 
 </footer>
+
+--s--
+
+## Demo
+
+# A _{colour}_ _{animal}_ sitting on a _{furniture}_, oil on canvas
+
+Test with [DALL·E 2](https://labs.openai.com/)
 
 --s--
 
