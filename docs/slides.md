@@ -369,7 +369,7 @@ Source: Make-A-Video · Meta · [«makeavideo.studio»](https://makeavideo.studi
 
 <footer>
 
-Source: «A yellow frog sitting on a chair, oil on canvas» · DALL·E 2 (September 2022)
+Source: «A yellow frog sitting on a chair, oil on canvas» · DALL·E 2 (October 2022)
 
 </footer>
 
@@ -750,7 +750,7 @@ background: true
 
 ## Links
 
-- [arthub.ai](https://arthub.ai) prompt ideas for generating AI art
+- [arthub.ai](https://arthub.ai) & [prompthero.com](https://prompthero.com/) · prompt ideas for generating AI art
 - [Stable Diffusion for MacOS](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 - [AI-Generated Artwork Won Fine Arts Competition](https://www.vice.com/en/article/bvmvqm/an-ai-generated-artwork-won-first-place-at-a-state-fair-fine-arts-competition-and-artists-are-pissed)
 - [Upscale with AI](https://replicate.com/nightmareai/real-esrgan)
