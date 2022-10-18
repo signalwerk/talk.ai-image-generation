@@ -362,7 +362,40 @@ Source: Make-A-Video · Meta · [«makeavideo.studio»](https://makeavideo.studi
   </div>
   <div class="col3">
 
-![](img/explanation/frog-100p.png)
+![](img/explanation/DALL%C2%B7E%202022-10-18%2001.41.34%20-%20A%20yellow%20frog%20sitting%20on%20a%20chair%2C%20oil%20on%20canvas.png)
+
+  </div>
+</div>
+
+<footer>
+
+Source: «A yellow frog sitting on a chair, oil on canvas» · DALL·E 2 (September 2022)
+
+</footer>
+
+--s--
+
+## Image to Image
+
+<div class="grid img--w100p img--pixelate">
+  <div class="col3">
+
+![](img/explanation/DALL%C2%B7E%202022-10-18%2001.41.34%20-%20A%20yellow%20frog%20sitting%20on%20a%20chair%2C%20oil%20on%20canvas.png)
+
+  </div>
+  <div class="col3">
+
+![](img/explanation/frog-66p.png)
+
+  </div>
+  <div class="col3">
+
+![](img/explanation/stable-diffusion-0.3-image-to-image.png)
+
+  </div>
+  <div class="col3">
+
+&nbsp;
 
   </div>
 </div>
