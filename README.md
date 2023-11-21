@@ -4,6 +4,12 @@
 
 ---
 
+## Events
+
+- October 6, 2022. Talk at Liip UX Exchange
+
+---
+
 ## Live preview
 
 Make sure you have live-server (`npm install -g live-server`)
